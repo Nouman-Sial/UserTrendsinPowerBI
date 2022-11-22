@@ -1,4 +1,4 @@
-# usertrendsinPowerBI
+# UserTrendsinPowerBI
 
 The Google Data Analyst Professional Certificae provided a large dataset for the capstone project. The idea is to ensure that all aspects of data analysis process are applied on a business problem to produce actionable insisghts.
 
