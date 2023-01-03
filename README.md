@@ -21,6 +21,7 @@ I performed the following analysis:
 
 1. Number of rides vs
 - Day of week
+[](1.jpg)
 - Month of year
 - Time of Day
 - Length of trip
