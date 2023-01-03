@@ -19,28 +19,28 @@ visualizations
 I performed exploratory Data analysis on 12 months Data of 2021 to figure out the differences in bahaviors of the Casual users vs Annual users.
 I performed the following analysis:
 
-1.  Number of rides vs
-- **Day of week
+### 1.  Number of rides vs
+- **Day of week**
  ![](1.png)
-- **Month of Year
+- **Month of Year**
  ![](2.png)
-- **Time of Day
+- **Time of Day**
  ![](8.png)
--**Length of Trip
+-**Length of Trip**
  ![](6.png)
-2. **Quarter wise change in Total Number of Rides
+### 2. **Quarter wise change in Total Number of Rides**
  ![](6.png)
-3. **Type of bike used vs
-- **Day of the week
+### 3. **Type of bike used vs**
+- **Day of the week**
  ![](7.png)
-- **Month of the Year
+- **Month of the Year**
  ![](7.png)
-4. **Average Length of trip Vs time of the day
+### 4. **Average Length of trip Vs time of the day**
  ![](9.png)
 
-5. **Number of trips by Quarter for Casual users vs Annual(member) users 
+### 5. **Number of trips by Quarter for Casual users vs Annual(member) users**
 ![](5.png)
-6. **Total Time spent on Trips by Quarter
+### 6. **Total Time spent on Trips by Quarter**
 ![](10.png)
 
 ## 4. Data Cleaning and Data Processing
