@@ -19,19 +19,29 @@ visualizations
 I performed exploratory Data analysis on 12 months Data of 2021 to figure out the differences in bahaviors of the Casual users vs Annual users.
 I performed the following analysis:
 
-1. Number of rides vs
-- Day of week
-[](1.jpg)
-- Month of year
-- Time of Day
-- Length of trip
-2. Quarter wise change in total number of rides
-3. Type of bike used vs
-- Day of the week
-- Month of the Year
-4. Average Length of trip Vs time of the day
-5. Number of trips by Quarter for Casual users vs Annual(member) users 
-6. Total Time spent on Trips by Quarter
+1.  Number of rides vs
+- **Day of week
+ ![](1.png)
+- **Month of Year
+ ![](2.png)
+- **Time of Day
+ ![](8.png)
+-**Length of Trip
+ ![](6.png)
+2. **Quarter wise change in Total Number of Rides
+ ![](6.png)
+3. **Type of bike used vs
+- **Day of the week
+ ![](7.png)
+- **Month of the Year
+ ![](7.png)
+4. **Average Length of trip Vs time of the day
+ ![](9.png)
+
+5. **Number of trips by Quarter for Casual users vs Annual(member) users 
+![](5.png)
+6. **Total Time spent on Trips by Quarter
+![](10.png)
 
 ## 4. Data Cleaning and Data Processing
 
@@ -54,7 +64,7 @@ I did not delete rows with nulls, I only filtered them out. After the model was 
 - Regular users take longer ride on average and casual users take shorter rides
 - Casual users stop taking rides steeply right after summer ends but regular users tend to use them more in post summer months
 - From Mid October to End of December the use of Electric bikes is more than the use of Classic and docked bikes combined
-- Annual users are more predictable than casual users thus demand prediction would be easier for annual members
+- Annual users are more predictable than casual users thus **demand prediction** would be easier for annual members
 
 
 
